@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="ar" dir="rtl">
 <head>
 <meta charset="UTF-8">
@@ -102,7 +102,7 @@ body {
 <div class="container">
     <div class="profile">
         <img src="https://instagram.falg1-1.fna.fbcdn.net/v/t51.2885-19/123456789_abcdefg.jpg" alt="Profile">
-        <h2>@oussama__zemmal</h2>
+        <h2>OUSSAMA ZEMMAL</h2>
     </div>
 
     <div class="slogan">🎉 تابعنا الآن وادخل السحب للفوز بجوائز مذهلة! 💎💰 تابع ستورياتنا أيضاً!</div>
